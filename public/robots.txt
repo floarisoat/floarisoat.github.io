@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://floarisoat.github.io/sitemap.xml
